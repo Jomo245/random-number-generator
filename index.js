@@ -1,9 +1,11 @@
+
 const mybtn=document.getElementById("mybtn");
 const mylabel1=document.getElementById("mylabel1");
 const mylabel2=document.getElementById("mylabel2");
 const mylabel3=document.getElementById("mylabel3");
 const min=1;
 const max=9;
+
 
 let randomNumber1;
 let randomNumber2;
@@ -21,6 +23,8 @@ mybtn.onclick=function(){
 
 myh2=document.getElementById("myh2");
 myh2.textContent="GENERATE YOUR RANDOM NUMBER"
-  
+
 }
+  
+
 
